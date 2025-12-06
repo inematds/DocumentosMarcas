@@ -11,11 +11,7 @@ This guide provides ready-to-use prompts that you can send directly to Claude Co
 Just paste this ONE prompt into Claude Code:
 
 ```
-Clone https://github.com/promptadvisers/claude-code-polished-documents-skills and set it up completely:
-1. Clone the repo
-2. Create Python virtual environment and install python-docx
-3. Copy all skills to ~/.claude/skills/
-4. Test by creating a sample document with McKinsey styling
+Clone https://github.com/inematds/DocumentosMarcas and set it up for me - install the Python environment, copy skills to ~/.claude/skills/, and test it works.
 ```
 
 That's it! Skip to "Test the Document Polisher Skill" below to verify it worked.
@@ -29,8 +25,8 @@ That's it! Skip to "Test the Document Polisher Skill" below to verify it worked.
 Open Claude Code in any directory and paste this prompt:
 
 ```
-Clone the claude-code-polished-documents-skills repository from GitHub and set it up for me:
-https://github.com/promptadvisers/claude-code-polished-documents-skills
+Clone the DocumentosMarcas repository from GitHub and set it up for me:
+https://github.com/inematds/DocumentosMarcas
 
 After cloning:
 1. Create a Python virtual environment
