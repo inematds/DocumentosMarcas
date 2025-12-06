@@ -18,7 +18,7 @@ A comprehensive collection of Claude Code skills for document generation, stylin
 Open Claude Code anywhere and paste this:
 
 ```
-Clone https://github.com/promptadvisers/claude-code-polished-documents-skills and set it up for me - install the Python environment, copy skills to ~/.claude/skills/, and test it works.
+Clone https://github.com/inematds/DocumentosMarcas and set it up for me - install the Python environment, copy skills to ~/.claude/skills/, and test it works.
 ```
 
 ### More Prompts

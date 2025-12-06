@@ -9,7 +9,7 @@ Just copy any of these prompts and paste them directly into Claude Code.
 ### Complete Auto-Setup (Recommended)
 ```
 I want to use the document-polisher skill from this repo:
-https://github.com/promptadvisers/claude-code-polished-documents-skills
+https://github.com/inematds/DocumentosMarcas
 
 Please:
 1. Clone it to a suitable location
@@ -21,7 +21,7 @@ Please:
 
 ### Manual Clone + Setup
 ```
-git clone https://github.com/promptadvisers/claude-code-polished-documents-skills.git
+git clone https://github.com/inematds/DocumentosMarcas.git
 
 Then set up the Python environment and install the skills for me.
 ```
